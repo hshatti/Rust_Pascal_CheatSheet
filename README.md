@@ -1,10 +1,6 @@
-Pascal → Rust Cheat Sheet
-
 # Pascal → Rust Cheat Sheet
 
 By Haitham Shatti (2026)
-
-haitham.shatti@gmail.com
 
 [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
