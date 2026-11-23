@@ -10,7 +10,7 @@ haitham.shatti@gmail.com
 
 Examples Rust code snippets and their equivalent Pascal code, every code is concrete example; every example was compiled and executed on both sides (Free Pascal 3.2.2 — FPC 3.3.1 where a feature is Delphi-only, e.g. anonymous methods / rustc 1.97, edition 2021) before being written here — where FPC differs from Delphi, the documented behavior is Delphi's.
 
-##How to read: 
+## How to read: 
 `Pascal` — Delphi syntax 
 `Rust` — modern std-only Rust (no external crates)
 `Description` — what the construct does · 
